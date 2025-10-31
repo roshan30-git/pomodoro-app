@@ -1,0 +1,5 @@
+{
+  "name": "Pomofocus Clone",
+  "description": "A React and Tailwind CSS clone of the Pomofocus.io application, a personal productivity tool based on the Pomodoro Technique. It features a configurable timer for focus, short breaks, and long breaks, along with a task manager to track your work.",
+  "requestFramePermissions": []
+}
